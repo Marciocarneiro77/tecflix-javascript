@@ -1,7 +1,7 @@
 body {
   font-family: 'Roboto Mono',monospace;
   text-align:center;
-  background-image: url('../img/fundo.png');
+  background-image: url('../img/liga.png');
   background-color: #000000;
   background-size: cover;
   background-position: center top;
@@ -11,14 +11,38 @@ body {
 .container {
   text-align: center;
   padding: 20px;
+  
 }
 
 .page-title {
-  color: #ffffff;
+  color: red;
   margin: 0 0 5px;
 }
 
 
 body > img {
   margin: 0 10px;
+}
+.nomes-0{
+  
+  color: red;
+margin-left:-270px;
+}
+
+.nomes-1{
+  
+  color: red;
+margin-left:270px;
+}
+
+.nomes-2{
+  
+  color: red;
+margin-left:-270px;
+}
+
+.nomes-3{
+  
+  color: red;
+margin-left:-270px;
 }
